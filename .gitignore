@@ -88,6 +88,7 @@ venv/
 ENV/
 .virtualenv/
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -100,6 +101,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 .idea/
 
